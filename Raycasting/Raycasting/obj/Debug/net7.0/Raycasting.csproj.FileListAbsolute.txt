@@ -1,0 +1,15 @@
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\Raycasting.csproj.AssemblyReference.cache
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\Raycasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\Raycasting.AssemblyInfoInputs.cache
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\Raycasting.AssemblyInfo.cs
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\Raycasting.csproj.CoreCompileInputs.cache
+C:\Users\raima\source\repos\Raycasting\Raycasting\bin\Debug\net7.0\Raycasting.exe
+C:\Users\raima\source\repos\Raycasting\Raycasting\bin\Debug\net7.0\Raycasting.deps.json
+C:\Users\raima\source\repos\Raycasting\Raycasting\bin\Debug\net7.0\Raycasting.runtimeconfig.json
+C:\Users\raima\source\repos\Raycasting\Raycasting\bin\Debug\net7.0\Raycasting.dll
+C:\Users\raima\source\repos\Raycasting\Raycasting\bin\Debug\net7.0\Raycasting.pdb
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\Raycasting.dll
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\refint\Raycasting.dll
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\Raycasting.pdb
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\Raycasting.genruntimeconfig.cache
+C:\Users\raima\source\repos\Raycasting\Raycasting\obj\Debug\net7.0\ref\Raycasting.dll
